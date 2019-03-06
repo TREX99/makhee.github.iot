@@ -58,7 +58,7 @@
     - 터미널 오픈
     - 메인 프로젝트 폴더 위치에서 프로젝트 생성
     
-    <pre>
+  
         $ expo init hello
         ================================================
         ? Choose a template: (Use arrow keys)
@@ -84,14 +84,14 @@
         
         $ cd hello
         $ npm start
-    </pre>
+  
     
     - 사이트에 프로젝트 관리 페이지 자동 오픈
     - 애뮬레이터를 구동
     - 사이트에서 Run On Android 선택하여 App build 확인 
 
 ## 4. React-Native 기본 프로젝트 구조
-    <pre>
+    
         hello
             ┗ .expo                  : 프로젝트 관련 파일
             ┗ packager-info.json
@@ -117,7 +117,7 @@
             ┗ package-lock.json      : npm install이 진행되면 자동 생성
             ┗ package.json           : 구동에 필요한 패키지가 상세 기술
                                        npm install --save 패키지명을 실행하면 자동으로 추가됨
-    </pre>
+    
 
 ## 5. 배포
    - android studio > build > generater signed bundle > key 생성
