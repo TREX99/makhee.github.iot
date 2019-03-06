@@ -58,7 +58,6 @@
     - 터미널 오픈
     - 메인 프로젝트 폴더 위치에서 프로젝트 생성
     <pre>
-    <code>
         $ expo init hello
         ================================================
         ? Choose a template: (Use arrow keys)
@@ -84,7 +83,6 @@
         
         $ cd hello
         $ npm start
-    </code>
     </pre>
     - 사이트에 프로젝트 관리 페이지 자동 오픈
     - 애뮬레이터를 구동
