@@ -3,15 +3,21 @@
 ## 1일차 
 - 모던 자바스크립트 주요 변경 사항 위주 (ES2015, ES6, ES2017 ) 개발에 필요한 문법 사항 숙지
 
+   *https://github.com/makhee/makhee.github.iot/tree/master/modenjs*
+
 ## 2일차
 - 리액트 기본 props, state, event, 컴포넌트 생성
 - 네트워크 통신 (API)
+
+   *https://github.com/makhee/makhee.github.iot/tree/master/hello*
 
 ## 3일차
 - UI 구성 
 - 화면 전환(네비게이션, 라우트)
 - 서버(Firebase)연동
 - 배포
+
+   *https://github.com/makhee/makhee.github.iot/tree/master/multi*
 
 * * *
 
